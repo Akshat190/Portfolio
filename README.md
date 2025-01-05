@@ -2,7 +2,7 @@
 
 A modern, responsive portfolio website built with React.js showcasing my skills, projects, and professional experience.
 
-![Portfolio Preview](./public/assets/project-1.png)
+![Portfolio Preview]()
 
 1. Clone the repo
 
